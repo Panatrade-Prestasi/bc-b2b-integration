@@ -51,6 +51,11 @@ page 50094 "PP Ship-to Address API"
                     Caption = 'City';
                     NotBlank = true;
                 }
+                field(county; Rec.County)
+                {
+                    Caption = 'County';
+                    NotBlank = true;
+                }
                 field(countryRegionCode; Rec."Country/Region Code")
                 {
                     Caption = 'Country/Region Code';

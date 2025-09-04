@@ -51,6 +51,11 @@ page 50081 "PP Customer Page API"
                     Caption = 'City';
                     NotBlank = true;
                 }
+                field(county; Rec.County)
+                {
+                    Caption = 'County';
+                    NotBlank = true;
+                }
                 field(countryRegionCode; Rec."Country/Region Code")
                 {
                     Caption = 'Country/Region Code';
