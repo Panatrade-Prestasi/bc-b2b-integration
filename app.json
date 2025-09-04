@@ -1,0 +1,39 @@
+{
+  "id": "717bb189-9fa9-46fa-9989-292040a3eb7d",
+  "name": "PP B2B Integration",
+  "publisher": "Panatrade Prestasi",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "48a628b0-d9f3-414e-8a6d-77487f5967bf",
+      "name": "Tax Localization for Indonesia",
+      "publisher": "R Systems Ibizcs Pte Ltd",
+      "version": "1.1.20.706"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50080,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
