@@ -16,11 +16,11 @@
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
             "tenant": "default",
-            "request": "launch",
-            "usePublicURLFromServer": true,
-            "schemaUpdateMode": "Synchronize"
-            // "request": "attach",
-            // "breakOnNext": "WebServiceClient"
+            // "request": "launch",
+            // "usePublicURLFromServer": true,
+            // "schemaUpdateMode": "Synchronize"
+            "request": "attach",
+            "breakOnNext": "WebServiceClient"
         },
         {
             "name": "BC Live",

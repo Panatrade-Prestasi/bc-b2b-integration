@@ -16,6 +16,12 @@
       "name": "Tax Localization for Indonesia",
       "publisher": "R Systems Ibizcs Pte Ltd",
       "version": "1.1.20.706"
+    },
+    {
+      "id": "a74a133c-ec62-4238-88bd-a61e912bfecc",
+      "name": "PRI Jubelio Integration",
+      "publisher": "R Systems IBIZCS International",
+      "version": "1.0.0.25"
     }
   ],
   "screenshots": [],
